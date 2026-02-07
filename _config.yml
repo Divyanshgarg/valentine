@@ -1,0 +1,5 @@
+title: Valentine Proposal
+description: Asking the big question
+# This line tells Jekyll to completely ignore the README during build
+exclude:
+  - README.md
